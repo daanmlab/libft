@@ -1,6 +1,6 @@
-# libft with a 125% mark :)
+# ✅ libft with a 125% mark :) 
 
-## Hey There!
+## Hey There! 👋🏽
 Welcome to `libft`! This is your first step as a student at 42. It's all about diving into C programming by redoing some of the classic C standard library functions, plus a few extra utility functions. Think of it as your DIY toolkit for coding at 42.
 
 ## What's the Goal?
